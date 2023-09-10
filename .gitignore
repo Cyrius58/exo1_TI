@@ -1,0 +1,7 @@
+# Fichiers compilés
+*.class
+# Dossier contenant les fichiers binaires
+/bin/
+# Autres dossiers/fichiers générés par l'IDE ou l'environnement
+*.log
+*.cache

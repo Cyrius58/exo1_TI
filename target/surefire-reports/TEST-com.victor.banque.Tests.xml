@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.victor.banque.Tests" time="0.072" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="19"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\testunit\exo1\exo1_TI\target\test-classes;C:\testunit\exo1\exo1_TI\target\classes;C:\Users\Victor\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0\junit-jupiter-api-5.7.0.jar;C:\Users\Victor\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Victor\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Victor\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0\junit-platform-commons-1.7.0.jar;C:\Users\Victor\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0\junit-jupiter-engine-5.7.0.jar;C:\Users\Victor\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0\junit-platform-engine-1.7.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="19"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-19\bin"/>
+    <property name="sun.java.command" value="C:\Users\Victor\AppData\Local\Temp\surefire8947980914542555000\surefirebooter-20230910155413413_3.jar C:\Users\Victor\AppData\Local\Temp\surefire8947980914542555000 2023-09-10T15-54-13_204-jvmRun1 surefire-20230910155413413_1tmp surefire_0-20230910155413413_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\testunit\exo1\exo1_TI\target\test-classes;C:\testunit\exo1\exo1_TI\target\classes;C:\Users\Victor\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0\junit-jupiter-api-5.7.0.jar;C:\Users\Victor\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Victor\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Victor\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0\junit-platform-commons-1.7.0.jar;C:\Users\Victor\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0\junit-jupiter-engine-5.7.0.jar;C:\Users\Victor\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0\junit-platform-engine-1.7.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Victor"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-01-17"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-19"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\testunit\exo1\exo1_TI"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Victor\AppData\Local\Temp\surefire8947980914542555000\surefirebooter-20230910155413413_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="19.0.2+7-44"/>
+    <property name="user.name" value="Victor"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Victor\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Victor\AppData\Local\Temp\"/>
+    <property name="java.version" value="19.0.2"/>
+    <property name="user.dir" value="C:\testunit\exo1\exo1_TI"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-19\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Python311\Scripts\;C:\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\ProgramData\chocolatey\bin;C:\Users\Victor\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files (x86)\Paragon Software\LinuxFS for Windows\;C:\Program Files\PuTTY\;C:\src\flutterDev\flutter\bin;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;%HADOOP_HOME%\bin;C:\Program Files\Java\jdk-19\bin;C:\hadoop-3.3.0\bin;C:\wamp\bin\php\php8.0.26;C:\composer;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\PowerShell\7\;C:\Program Files (x86)\ffmpeg-6.0-essentials_build\bin;C:\Program Files\Java\jdk1.8.0_251;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\MongoDB\mongosh-1.10.1\bin;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\apache-maven-3.9.4\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Victor\.symfony5\tmp\cf401ei2949j6v7dedgg\bin;C:\wamp\bin\php\php8.2.0;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Python311\Scripts\;C:\Python311\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\ProgramData\chocolatey\bin;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Git\cmd;C:\Users\Victor\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\Victor\scoop\shims;C:\Users\Victor\AppData\Local\Microsoft\WindowsApps;C:\Users\Victor\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\VideoLAN\VLC;C:\Users\Victor\AppData\Roaming\Composer\vendor\bin;C:\Users\Victor\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\Victor\.platformsh\bin;C:\src\flutterDev\flutter\bin;C:\Users\Victor\AppData\Local\GitHubDesktop\bin;C:\Users\Victor\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.2\bin;;C:\hadoop-3.3.0\bin;C:\Program Files\Java\jdk-19\bin;C:\hadoop-3.3.0\bin;C:\Program Files\JetBrains\PhpStorm 2023.1.2\bin;;C:\wamp\bin\php\php8.0.26;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="19.0.2+7-44"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="63.0"/>
+  </properties>
+  <testcase name="testDebiterInsuffisant" classname="com.victor.banque.Tests" time="0.041"/>
+  <testcase name="testCrediter" classname="com.victor.banque.Tests" time="0.001"/>
+  <testcase name="testDebiterSuffisant" classname="com.victor.banque.Tests" time="0.002"/>
+</testsuite>
